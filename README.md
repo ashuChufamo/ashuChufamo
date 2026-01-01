@@ -19,7 +19,7 @@ My passion lies in building intelligent systems that make expert knowledge and r
   - 📞 In-app calling and real-time chat  
   - ❓ AI-enhanced FAQ services  
 
-- 💡 **[EngagePoint](#)** – A research engagement platform connecting **researchers, developers, and real users** through a **reward-based participation system**.
+- 💡 **[EngagePoint](#)** – A research engagement platform connecting **researchers, developers, and real users** through a **reward-based participation system** .
 
 - 🎓 **Master’s Thesis:**  
   *Developing Robust and Adversarial Alignment Strategies for Large Language Models (LLMs)* — focused on improving **alignment, interpretability, and robustness** in modern AI systems.
